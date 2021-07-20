@@ -1,0 +1,17 @@
+@font-face {
+    font-family: AmsiPro-Regular;
+    src: url(./assets/fonts/AmsiPro-Regular.otf);
+    font-weight: regular;
+}
+
+@font-face {
+    font-family: AmsiPro-Bold;
+    src: url(./assets/fonts/AmsiPro-Bold.otf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: AmsiPro-CondBold;
+    src: url(./assets/fonts/AmsiProCond-Bold.otf);
+    font-weight: bold;
+}
